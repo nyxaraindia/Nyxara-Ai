@@ -96,3 +96,41 @@ with a very small prediction error.
 ### Tomorrow's Goal
 Understand activation functions, nonlinear learning
 and build a neural network with a hidden layer.
+
+## Day 04
+
+Date: 06 November 2026
+
+### Today's Objective
+Understand nonlinear relationships, activation functions,
+hidden layers, and how neural networks learn XOR.
+
+### Completed Tasks
+- [x] Studied linear and nonlinear relationships
+- [x] Learned about ReLU, Sigmoid, and Tanh
+- [x] Understood hidden layers
+- [x] Created and ran the XOR learning experiment
+- [x] Successfully predicted all four XOR combinations
+
+### Experiment Results
+Model: 2 input neurons, 8 hidden neurons, 1 output neuron
+Trainable parameters: 33
+Optimizer: Adam
+Learning rate: 0.05
+Training epochs: 2000
+Final loss: 0.000022
+
+Predictions:
+- 0 XOR 0 = 0
+- 0 XOR 1 = 1
+- 1 XOR 0 = 1
+- 1 XOR 1 = 0
+
+### What I Learned
+A hidden layer with a nonlinear activation function
+allows a neural network to learn patterns that a
+single linear layer cannot represent.
+
+### Tomorrow's Goal
+Understand gradient descent, learning rates, and
+how optimizers update neural-network parameters.
