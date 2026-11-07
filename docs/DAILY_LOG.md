@@ -175,3 +175,34 @@ loss.backward(), while parameter updates can be implemented manually.
 
 ### Tomorrow's Goal
 Understand datasets, batches, epochs, and data pipelines.
+
+## Day 06
+
+Date: 07 November 2026
+
+### Today's Objective
+Understand datasets, samples, batches, epochs, shuffling and PyTorch DataLoader.
+
+### Completed Tasks
+- [x] Created a dataset with 12 samples
+- [x] Created input-target pairs
+- [x] Used TensorDataset
+- [x] Used DataLoader with batch size 4
+- [x] Processed 3 batches per epoch
+- [x] Completed 2 epochs
+- [x] Verified shuffled sample order
+- [x] Passed all 4 knowledge-check questions
+
+### What I Learned
+A dataset contains training samples.
+A batch is a group of samples processed together.
+An epoch is one complete pass through the training dataset.
+Shuffling changes the sample order between epochs.
+PyTorch DataLoader provides batches for model training.
+
+### Practical Result
+12 samples, batch size 4, 3 batches per epoch.
+Two epochs completed successfully.
+
+### Tomorrow's Goal
+Understand training loops and validation.
