@@ -134,3 +134,44 @@ single linear layer cannot represent.
 ### Tomorrow's Goal
 Understand gradient descent, learning rates, and
 how optimizers update neural-network parameters.
+
+## Day 05
+
+Date: 07 November 2026
+
+### Today's Objective
+Understand gradient descent, learning rates, gradients,
+and optimizers.
+
+### Completed Tasks
+- [x] Studied gradient descent
+- [x] Understood learning rates
+- [x] Used PyTorch automatic differentiation
+- [x] Implemented a manual gradient descent update
+- [x] Tested three learning rates
+
+### Experiment Results
+Target weight: 3.0
+
+Learning rate 0.1:
+Final weight: 2.677877
+Observation: Slow convergence.
+
+Learning rate 0.5:
+Final weight: 3.000000
+Observation: Reached the target in one update.
+
+Learning rate 1.1:
+Final weight: -15.575218
+Observation: Divergence due to repeated overshooting.
+
+### What I Learned
+Gradient descent updates model parameters using gradients.
+The learning rate controls the size of each update.
+An excessively large learning rate can make training unstable.
+
+PyTorch can calculate gradients automatically using
+loss.backward(), while parameter updates can be implemented manually.
+
+### Tomorrow's Goal
+Understand datasets, batches, epochs, and data pipelines.
