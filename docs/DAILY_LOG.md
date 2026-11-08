@@ -206,3 +206,65 @@ Two epochs completed successfully.
 
 ### Tomorrow's Goal
 Understand training loops and validation.
+
+## Day 07 — Training Loops and Validation
+
+Date: 08 November 2026
+
+### Today's Objective
+Understand training loops, epochs, training loss, validation loss and model evaluation.
+
+### Completed Tasks
+- [x] Created 100 synthetic training examples using y = 3x + 2
+- [x] Split data into 80 training samples and 20 validation samples
+- [x] Created TensorDataset objects
+- [x] Created DataLoaders with batch size 10
+- [x] Created a PyTorch Linear model
+- [x] Implemented a 100-epoch training loop
+- [x] Used MSELoss and SGD optimizer
+- [x] Implemented gradient calculation and parameter updates
+- [x] Implemented validation using model.eval()
+- [x] Used torch.no_grad() during validation
+- [x] Successfully tested a new input
+
+### Experiment Results
+Target equation: y = 3x + 2
+
+Training samples: 80
+Validation samples: 20
+Batch size: 10
+Epochs: 100
+
+Learned weight: 3.0
+Learned bias: 1.9999998807907104
+
+Input: 4.0
+Predicted output: 14.0
+Expected output: 14.0
+
+Training and validation losses displayed as 0.000000
+(rounded to six decimal places).
+
+### What I Learned
+- Training samples teach the model.
+- Validation samples evaluate the model on separate data.
+- A batch is a group of samples.
+- An epoch is one complete pass through the training dataset.
+- optimizer.zero_grad() clears previous gradients.
+- loss.backward() calculates gradients.
+- optimizer.step() updates model parameters.
+- model.train() enables training mode.
+- model.eval() enables evaluation mode.
+- torch.no_grad() avoids unnecessary gradient calculations during evaluation.
+- Validation does not update model weights.
+
+### Practical Result
+Successfully trained a PyTorch linear model to learn y = 3x + 2.
+The model predicted 14.0 for input 4.0.
+
+### Status
+Experiment completed successfully.
+Knowledge quiz: Pending.
+
+### Tomorrow's Goal
+Continue NYXARA AI development with Day 8.
