@@ -268,3 +268,34 @@ Knowledge quiz: Pending.
 
 ### Tomorrow's Goal
 Continue NYXARA AI development with Day 8.
+
+## Day 08 — Neural Network Architecture
+
+Date: 11 November 2026
+
+### Today's Objective
+Understand neural network architecture and explore CNN, RNN and Transformer architectures.
+
+### Completed Topics
+- [x] Understood neural network architecture
+- [x] Reviewed the Day 4 XOR network (2-8-1)
+- [x] Compared 2-8-1 and 2-16-1 architectures
+- [x] Learned about CNNs
+- [x] Learned about RNNs
+- [x] Learned about Transformers and attention
+- [x] Connected architecture research with NYXARA Adaptive Intelligence
+
+### Knowledge Check
+Score: 4/4
+
+### Research Direction
+NYXARA will pursue both evolutionary and radical architecture research.
+The final architecture remains open to experimental evidence.
+
+Central research concept: Adaptive Intelligence.
+
+### Status
+Day 8 completed successfully.
+
+### Next Lesson
+Day 9 — Tokens and Embeddings.
