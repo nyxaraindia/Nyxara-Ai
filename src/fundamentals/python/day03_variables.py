@@ -1,0 +1,12 @@
+name='Amal'
+age=19
+mark1=14
+mark2=15
+mark3=13
+mark4=18
+mark5=8
+total=mark1+mark2+mark3+mark4+mark5
+print('Total=',total)
+bonus=5
+final=total+bonus
+print('Bonus total=',final)
