@@ -52,3 +52,39 @@ Questions:
 
 ## Review and next steps
 Continue with algorithms, step-by-step instructions and pseudocode after the exercise is reviewed.
+
+## Student challenge: Pass or Fail algorithm
+
+Student's independent algorithm:
+
+START
+INPUT mark scored by student
+IF mark < 40
+    DISPLAY "FAIL"
+OTHERWISE
+    DISPLAY "PASS"
+STOP
+
+### Evaluation
+- Correct input identification.
+- Correct comparison.
+- Correct handling of both outcomes.
+- Algorithm accepted.
+
+## New concept: Dry run
+A dry run manually tests an algorithm with sample inputs.
+
+### Test cases
+| Marks | Condition marks < 40 | Result |
+|---:|---|---|
+| 25 | TRUE | FAIL |
+| 39 | TRUE | FAIL |
+| 40 | FALSE | PASS |
+| 65 | FALSE | PASS |
+| 100 | FALSE | PASS |
+
+### Boundary value
+40 is the boundary between FAIL and PASS.
+
+## Next
+Practice comparison operators and dry runs.
