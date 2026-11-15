@@ -1,699 +1,522 @@
-# NYXARA AI — Python Learning Progress Report
+# NYXARA AI — Learning Progress Report
 
-**Learning Programme:** Build Your Own AI Model  
-**Student:** NYXARA AI Project Learner  
-**Report Period:** Day 1 to Day 13  
-**Current Stage:** Python Fundamentals  
-**Report Status:** Day 13 Completed  
-**Next Lesson:** Day 14 — Python Strings and String Operations
+**Project:** NYXARA AI  
+**Learning Track:** Python Fundamentals for AI Development  
+**Current Learning Day:** 16  
+**Last Updated:** 15 November 2026  
+**Learning Status:** In Progress
 
 ---
 
 # 1. Overall Performance
 
-## Overall Learning Score: 89/100
-
-| Measurement | Result |
+| Metric | Result |
 |---|---:|
-| Lessons completed | 13 |
-| Lessons remaining in current stage | Ongoing |
-| Recorded scored answers correct | 52 |
-| Recorded scored answers incorrect | 0 |
-| Provisional day assessments | 7 |
-| Overall estimated score | 89/100 |
-| Overall status | Excellent progress |
+| Learning days covered | 16 |
+| Total assessment points | 149 |
+| Points earned | 135 |
+| Overall score | 90.6% |
+| Performance | Excellent |
+| Current stage | Python Fundamentals |
 
-### Score calculation
+## Overall Score
 
-The assessment uses 10 points per completed learning day.
+**135 / 149 = 90.6%**
 
-Six days have recorded numerical exercises with all recorded answers correct.
+This score combines the previously recorded provisional assessments for Days 1–13 with the recorded quiz results for Days 14–16.
 
-Seven other days have been assessed provisionally based on demonstrated understanding, completed exercises and coding work.
-
-| Assessment group | Points earned | Maximum points |
-|---|---:|---:|
-| Days 2, 4, 5, 11, 12, 13 | 60 | 60 |
-| Days 1, 3, 6, 7, 8, 9, 10 | 56 | 70 |
-| Total | 116 | 130 |
-
-Calculation:
-
-116 / 130 × 100 = 89.23%
-
-**Rounded overall score: 89/100**
-
-Important: This is an estimated learning-progress score, not a standardized examination result. Provisional scores are based on available learning evidence and should be validated through a comprehensive practical examination.
+Important:
+- Days 1–13 use earlier estimated scores.
+- Days 14–16 use recorded quiz results.
+- The score is a learning-progress estimate, not a standardized examination result.
+- Practical programming ability is assessed separately.
 
 ---
 
-# 2. Day-by-Day Learning Record
+# 2. Daily Progress Tracker
 
-## Day 1 — Understanding Computers and Logic
+| Day | Topic | Score | Status |
+|---|---|---:|---|
+| 01 | Computational Thinking and IPO | 8/10* | Completed |
+| 02 | Conditions and Logical Operators | 10/10* | Completed |
+| 03 | Variables and Data Types | 8/10* | Completed |
+| 04 | Input and Output | 10/10* | Completed |
+| 05 | Python Operators | 10/10* | Completed |
+| 06 | Conditional Statements | 8/10* | Completed |
+| 07 | Loops | 8/10* | Completed |
+| 08 | Functions | 8/10* | Completed |
+| 09 | Parameters and Return | 8/10* | Completed |
+| 10 | Default Parameters | 8/10* | Completed |
+| 11 | Python Lists | 10/10* | Completed |
+| 12 | Python Dictionaries | 10/10* | Completed |
+| 13 | Tuples and Sets | 10/10* | Completed |
+| 14 | Python Strings | 4/4 | Completed |
+| 15 | String Processing and Text Analysis | 7/7 | Completed |
+| 16 | Python Modules and Imports | 8/8 | Quiz completed |
 
-**Status:** Completed  
-**Provisional score:** 8/10
+*Days 1–13 scores are provisional estimates from the earlier progress report.*
 
-### Topics covered
-- What is a computer?
-- Input, processing and output.
-- Computational thinking.
-- Logical decisions.
-- TRUE and FALSE.
+---
+
+# 3. Detailed Score Analysis
+
+## Days 1–5: Programming Foundations
+
+| Day | Topic | Score |
+|---|---|---:|
+| 1 | Computational Thinking | 8/10 |
+| 2 | Conditions and Logic | 10/10 |
+| 3 | Variables and Data Types | 8/10 |
+| 4 | Input and Output | 10/10 |
+| 5 | Operators | 10/10 |
+| **Total** | | **46/50** |
+
+**Percentage: 92%**
+
+## Days 6–10: Programming Logic
+
+| Day | Topic | Score |
+|---|---|---:|
+| 6 | Conditional Statements | 8/10 |
+| 7 | Loops | 8/10 |
+| 8 | Functions | 8/10 |
+| 9 | Parameters and Return | 8/10 |
+| 10 | Default Parameters | 8/10 |
+| **Total** | | **40/50** |
+
+**Percentage: 80%**
+
+## Days 11–13: Data Structures
+
+| Day | Topic | Score |
+|---|---|---:|
+| 11 | Lists | 10/10 |
+| 12 | Dictionaries | 10/10 |
+| 13 | Tuples and Sets | 10/10 |
+| **Total** | | **30/30** |
+
+**Percentage: 100%**
+
+## Days 14–16: Text Processing and Code Organization
+
+| Day | Topic | Score |
+|---|---|---:|
+| 14 | Strings | 4/4 |
+| 15 | String Processing | 7/7 |
+| 16 | Modules and Imports | 8/8 |
+| **Total** | | **19/19** |
+
+**Percentage: 100%**
+
+## Combined Score
+
+| Section | Earned | Total |
+|---|---:|---:|
+| Days 1–5 | 46 | 50 |
+| Days 6–10 | 40 | 50 |
+| Days 11–13 | 30 | 30 |
+| Days 14–16 | 19 | 19 |
+| **Overall** | **135** | **149** |
+
+---
+
+# 4. Complete Learning History
+
+## Day 1 — Computational Thinking
+
+Concepts:
+- Input, Process and Output.
+- Basic problem-solving.
 - Algorithms.
 - Pseudocode.
-- IF and ELSE logic.
-- Dry-running algorithms.
+- Computational logic.
+- Breaking problems into smaller steps.
 
-### Demonstrated understanding
-- Created a marks-based pass/fail algorithm.
-- Understood decision-making logic.
-- Identified that a marks threshold of 40 should allow exactly 40 to pass when using an inclusive condition.
-- Applied logic to a shopping purchase decision.
+## Day 2 — Conditions and Logical Operators
 
-### Review
-- Writing algorithms independently.
-- Converting real-world problems into pseudocode.
-- Flowchart development.
-
----
-
-## Day 2 — Conditions and Decision Logic
-
-**Status:** Completed  
-**Score:** 10/10
-
-### Topics covered
+Concepts:
 - Comparison operators.
 - Assignment versus equality.
-- AND, OR and NOT.
-- IF and ELSE.
-- Multiple conditions.
-- Range checking.
+- AND operator.
+- OR operator.
+- NOT operator.
+- If and else logic.
 
-### Assessment
-Quiz: 5/5.
+## Day 3 — Variables and Data Types
 
-### Demonstrated understanding
-- Correctly answered all five recorded quiz questions.
-- Understood TRUE/FALSE conditions.
-- Applied multiple conditions to decision-making.
-
----
-
-## Day 3 — Variables, Values and Data Types
-
-**Status:** Completed  
-**Provisional score:** 8/10
-
-### Topics covered
+Concepts:
 - Variables.
-- Assignment and reassignment.
-- Integer.
-- Float.
-- String.
-- Boolean.
-- Arithmetic expressions.
+- Assignment.
+- Integers.
+- Floating-point numbers.
+- Strings.
+- Booleans.
 - Type conversion.
 
-### Demonstrated understanding
-- Calculated 68 + 5 = 73.
-- Understood variable reassignment.
-- Identified integer, float, string and Boolean values.
-- Correctly calculated int("10") + int("20") = 30.
+## Day 4 — Input and Output
 
-### Review
-- Variable naming.
-- Data type conversion.
-- Mathematical expressions.
-
----
-
-## Day 4 — Python Input and Output
-
-**Status:** Completed  
-**Score:** 10/10
-
-### Topics covered
+Concepts:
 - input().
 - print().
-- int().
-- float().
-- String conversion.
-- F-strings.
-- Concatenation.
-- Arithmetic with user input.
+- User input.
+- Integer conversion.
+- Float conversion.
+- String input.
+- Formatted output.
 
-### Assessment
-Quiz: 3/3.
+## Day 5 — Python Operators
 
-### Practical work
-Created and executed:
-
-src/fundamentals/python/day04_input_output.py
-
-Successfully accepted user input and calculated a sum.
-
-### Demonstrated understanding
-- Understood that input() returns a string.
-- Understood why numeric conversion is necessary.
-- Differentiated string concatenation from arithmetic addition.
-
----
-
-## Day 5 — Python Operators and Expressions
-
-**Status:** Completed  
-**Score:** 10/10
-
-### Topics covered
-- Addition.
-- Subtraction.
-- Multiplication.
-- Division.
-- Floor division.
-- Modulus.
-- Exponentiation.
+Concepts:
+- Arithmetic operators.
 - Comparison operators.
 - Logical operators.
 - Operator precedence.
+- Mathematical expressions.
 
-### Assessment
+## Day 6 — Conditional Statements
 
-| Category | Score |
-|---|---:|
-| Arithmetic | 3/3 |
-| Comparisons | 5/5 |
-| Logical operators | 5/5 |
-| Operator precedence | 5/5 |
-| Total | 18/18 |
-
-### Practical work
-Worked on an eligibility checker using age and marks.
-
-### Review
-- Boundary conditions.
-- Correct use of >= and >.
-- Writing complete IF/ELSE programs.
-
----
-
-## Day 6 — Conditions, Branching and Nested Decisions
-
-**Status:** Completed  
-**Provisional score:** 8/10
-
-### Topics covered
-- IF.
-- ELIF.
-- ELSE.
-- Nested IF.
-- Multiple decision branches.
-- Validation.
-- Marks grading.
-
-### Practical work
-Independently developed a marks grading program.
-
-Demonstrated understanding of:
-- Invalid marks.
-- Grade ranges.
+Concepts:
+- if.
+- elif.
+- else.
+- Nested conditions.
 - Multiple conditions.
-- Branch selection.
+- Grade calculation logic.
 
-### Review
-- Boundary-value testing.
-- Nested decision logic.
-- Independent problem-solving.
+## Day 7 — Loops
 
----
-
-## Day 7 — Python Loops
-
-**Status:** Completed  
-**Provisional score:** 8/10
-
-### Topics covered
-- FOR loops.
-- WHILE loops.
-- RANGE().
-- Start, stop and step.
-- Loop iterations.
+Concepts:
+- for loops.
+- while loops.
+- range().
+- Loop execution.
 - Accumulators.
 - Infinite loops.
-- Dry-running loops.
+- Multiplication tables.
 
-### Practical work
+## Day 8 — Functions
 
-Independently wrote a multiplication table program:
-
-```python
-n = int(input("Enter a number:"))
-
-for i in range(1, 11):
-    print(f"{i} x {n} = {i*n}")
-```
-
-Also solved accumulator and countdown exercises.
-
-### Review
-- Nested loops.
-- Pattern printing.
-- Loop-based problem-solving.
-
----
-
-## Day 8 — Python Functions
-
-**Status:** Completed  
-**Provisional score:** 8/10
-
-### Topics covered
-- Defining functions.
-- Calling functions.
+Concepts:
+- Function definition.
+- Function calls.
 - Parameters.
 - Arguments.
-- RETURN.
-- PRINT versus RETURN.
+- Return values.
+- print() versus return.
 - Local variables.
-- Reusable code.
 
-### Practical work
+## Day 9 — Parameters and Return
 
-Created:
-
-src/fundamentals/python/day08_calculate_total.py
-
-```python
-def calculate_total(price, quantity):
-    return price * quantity
-
-total = calculate_total(50, 4)
-
-print(f"Total={total}")
-```
-
-Output:
-
-Total=200
-
-### Demonstrated understanding
-- Function calls.
-- Parameters and arguments.
-- Returning calculated values.
-- Understanding None when a function has no explicit return statement.
-
-### Review
-- Functions with multiple return paths.
-- Function decomposition.
-- Reusable program design.
-
----
-
-## Day 9 — Function Parameters and Scope
-
-**Status:** Completed  
-**Provisional score:** 8/10
-
-### Topics covered
-- Multiple parameters.
-- Positional arguments.
-- Local scope.
-- Global scope.
-- Function calculations.
-- Discount calculations.
-
-### Practical work
-
-Independently developed a discount calculator.
-
-```python
-def calculate_discount(price, discount):
-    discount = (price * discount) / 100
-    result = price - discount
-    return result
-
-final = calculate_discount(1000, 10)
-
-print(f"Total price to pay:{final}")
-```
-
-Output:
-
-Total price to pay:900.0
-
-### Demonstrated understanding
-- Calculated function outputs.
-- Distinguished local and global variables.
-- Understood returned values.
-- Applied functions to a practical pricing problem.
-
-### Review
+Concepts:
+- Function parameters.
+- Arguments.
 - Variable scope.
-- Descriptive variable naming.
-- More complex functions.
+- Returning calculated values.
+- Reusable functions.
 
----
+## Day 10 — Default Parameters
 
-## Day 10 — Default Parameters and Keyword Arguments
-
-**Status:** Completed  
-**Provisional score:** 8/10
-
-### Topics covered
-- Default parameters.
-- Positional arguments.
+Concepts:
+- Default arguments.
 - Keyword arguments.
-- Overriding defaults.
-- Combined function arguments.
-
-### Demonstrated understanding
-- Correctly calculated default quantity examples.
-- Understood keyword argument assignment.
-- Corrected an initial confusion between addition and subtraction when applying discounts.
-
-### Review
-- Complex function calls.
-- Combining positional and keyword arguments.
-- Function design.
-
----
+- Optional parameters.
+- Function calls with different arguments.
 
 ## Day 11 — Python Lists
 
-**Status:** Completed  
-**Score:** 10/10
-
-### Topics covered
+Concepts:
 - Creating lists.
-- Indexing.
-- Modifying elements.
+- Positive indexing.
+- Negative indexing.
+- Mutability.
 - append().
-- len().
 - remove().
 - pop().
-- FOR loops over lists.
+- len().
+- List traversal.
 - Accumulators.
-- Calculating totals.
-
-### Demonstrated understanding
-- Correctly identified list indexes.
-- Modified list values.
-- Predicted append and removal results.
-- Understood loop iterations.
-- Calculated totals using an accumulator.
-
-### Important code
-
-```python
-prices = [100, 200, 300, 400]
-
-total = 0
-
-for price in prices:
-    total = total + price
-
-print(total)
-```
-
-Output:
-
-1000
-
-### Review
-- List slicing.
-- Searching lists.
-- Calculating averages.
-- Filtering list elements.
-
----
 
 ## Day 12 — Python Dictionaries
 
-**Status:** Completed  
-**Score:** 10/10
-
-### Topics covered
+Concepts:
+- Keys and values.
 - Dictionary creation.
-- Key-value pairs.
 - Accessing values.
-- Adding entries.
-- Updating values.
-- pop().
-- Membership checking using in.
-- len().
-- Dictionary loops.
+- Adding elements.
+- Updating elements.
+- Removing elements.
+- Membership testing.
+- Dictionary iteration.
 - items().
-- Accumulators with dictionaries.
 
-### Assessment
-All 11 recorded answers across exercises were correct.
+## Day 13 — Tuples and Sets
 
-### Practical example
-
-```python
-inventory = {
-    "laptop": 5,
-    "mouse": 10,
-    "keyboard": 8
-}
-
-inventory["mouse"] = inventory["mouse"] - 2
-inventory["monitor"] = 3
-
-total = 0
-
-for item, quantity in inventory.items():
-    total = total + quantity
-
-print(total)
-```
-
-Output:
-
-24
-
-### NYXARA AI connection
-Dictionaries can be used for vocabulary-to-token ID mappings and model configuration.
-
-### Review
-- Nested dictionaries.
-- Dictionary methods.
-- Structured data processing.
-
----
-
-## Day 13 — Python Tuples and Sets
-
-**Status:** Completed  
-**Score:** 10/10
-
-### Topics covered
-
-#### Tuples
+Concepts:
 - Tuple creation.
-- Indexing.
-- len().
-- Mutable versus immutable.
-- Tuple modification errors.
-
-#### Sets
+- Tuple indexing.
+- Tuple immutability.
 - Set creation.
-- Unique values.
-- Removing duplicates.
-- List-to-set conversion.
-- Membership checking.
+- Unique elements.
+- Set membership.
 - add().
 - remove().
 - discard().
+- Type conversion.
 
-#### Data structure comparison
-- Lists.
-- Tuples.
-- Sets.
-- Dictionaries.
+## Day 14 — Python Strings
 
-### Assessment
-All nine recorded answers were correct.
+Concepts:
+- String indexing.
+- Negative indexing.
+- len().
+- Concatenation.
+- Repetition.
+- String immutability.
+- Slicing.
+- Reversing strings.
+- upper().
+- lower().
+- strip().
+- replace().
+- split().
+- join().
+- Membership testing.
 
-### NYXARA AI connection
-Sets can help identify unique vocabulary entries in datasets.
+## Day 15 — Practical String Processing and Text Analysis
 
-Example:
+Concepts:
+- Character counting.
+- Vowel counting.
+- Consonant counting.
+- Case normalization.
+- Word counting.
+- Character frequency.
+- Text analysis.
+- Introduction to tokenization.
 
-```python
-words = [
-    "AI",
-    "Python",
-    "AI",
-    "Learning",
-    "Python",
-    "Model"
-]
+Practical connection:
+Understanding text processing is an important foundation for developing a tokenizer for NYXARA AI.
 
-unique_words = set(words)
+## Day 16 — Python Modules and Imports
 
-print(len(unique_words))
+Concepts:
+- What a module is.
+- Why modules are useful.
+- import.
+- Built-in math module.
+- math.sqrt().
+- math.floor().
+- math.ceil().
+- math.pow().
+- from ... import.
+- Importing multiple functions.
+- Creating custom modules.
+- Reusing functions across Python files.
+- Organizing code into separate files.
+
+Quiz results:
+- Correct answers: 8
+- Incorrect answers: 0
+- Score: 8/8
+- Percentage: 100%
+
+---
+
+# 5. Learning Performance Analysis
+
+## Strong Areas
+
+1. Data structures.
+2. Lists and dictionaries.
+3. Tuples and sets.
+4. String manipulation.
+5. Text processing.
+6. Basic mathematical logic.
+7. Module imports and reusable functions.
+
+## Areas Requiring More Practice
+
+1. Writing complete programs independently.
+2. Combining multiple concepts in one program.
+3. Debugging errors independently.
+4. Building larger programs.
+5. Applying mathematical logic to computational problems.
+6. Organizing real-world Python projects.
+
+---
+
+# 6. Practical Coding Progress
+
+Quiz scores and practical coding exercises are tracked separately.
+
+| Exercise | Status |
+|---|---|
+| Day 1 — IPO exercises | Completed |
+| Day 2 — Condition exercises | Completed |
+| Day 3 — Variable exercises | Completed |
+| Day 4 — Input/output exercises | Completed |
+| Day 5 — Operator exercises | Completed |
+| Day 6 — Conditional exercises | Completed |
+| Day 7 — Loop exercises | Completed |
+| Day 8 — Function exercise | Completed |
+| Day 9 — Parameter and return exercise | Completed |
+| Day 10 — Default parameter exercise | Completed |
+| Day 11 — List exercises | Completed |
+| Day 12 — Dictionary exercises | Completed |
+| Day 13 — Tuple and set exercises | Completed |
+| Day 14 — String exercises | Completed |
+| Day 15 — Text processing exercises | Completed |
+| Day 16 — Calculator module | Pending |
+
+## Day 16 Practical Exercise
+
+Two Python files must be created:
+
+1. calculator.py
+2. day16_modules.py
+
+Required functions:
+- add(a, b)
+- subtract(a, b)
+- multiply(a, b)
+
+Requirements:
+- Use return values.
+- Import the calculator module.
+- Call all three functions from the main file.
+- Display the results.
+
+Expected output:
+
+```text
+Addition: 30
+Subtraction: 15
+Multiplication: 20
 ```
 
-Output:
+Test values:
+- Addition: 10 and 20.
+- Subtraction: 20 and 5.
+- Multiplication: 4 and 5.
 
-4
-
-### Review
-- Set operations.
-- Tuple unpacking.
-- Choosing the right data structure.
+Status: Pending independent implementation and review.
 
 ---
 
-# 3. Current Python Knowledge Map
+# 7. Connection to NYXARA AI
 
-| Category | Topics covered |
+Python fundamentals will support the development of NYXARA AI.
+
+| Python Concept | Future Application |
 |---|---|
-| Computational logic | Input, processing, output, algorithms |
-| Variables | Assignment, reassignment, data types |
-| Operators | Arithmetic, comparison, logical |
-| Decisions | IF, ELIF, ELSE, nested IF |
-| Loops | FOR, WHILE, RANGE |
-| Functions | Parameters, arguments, return |
-| Scope | Local and global variables |
-| Function arguments | Default and keyword arguments |
-| Lists | Indexing, modification, methods |
-| Dictionaries | Keys, values, methods, loops |
-| Tuples | Indexing, immutability |
-| Sets | Uniqueness, membership, methods |
+| Variables | Model configuration |
+| Conditions | Decision-making logic |
+| Loops | Training iterations |
+| Functions | Reusable model operations |
+| Lists | Data collections |
+| Dictionaries | Vocabulary and configuration |
+| Sets | Unique token collections |
+| Strings | Text processing |
+| String methods | Tokenizer development |
+| Modules | Code organization |
+| Packages | Organizing larger components |
+
+These are planned applications. Learning these concepts does not mean the corresponding AI components have already been implemented.
 
 ---
 
-# 4. Strengths
-
-Based on the recorded exercises and practical work:
-
-1. Strong understanding of computational logic.
-2. Good output prediction skills.
-3. Good understanding of conditions and operators.
-4. Ability to dry-run loops.
-5. Understanding of function parameters and return values.
-6. Ability to write simple Python programs independently.
-7. Good progress with Python data structures.
-8. Ability to apply programming logic to practical examples.
-
----
-
-# 5. Areas Requiring More Practice
-
-These are recommended review areas, not confirmed weaknesses.
-
-- Writing algorithms before coding.
-- Nested loops.
-- Complex function design.
-- Local and global scope.
-- Nested data structures.
-- List slicing and filtering.
-- Set operations.
-- Combining multiple Python concepts in one program.
-- Debugging independently.
-- Writing programs without step-by-step assistance.
-
----
-
-# 6. Next Learning Roadmap
+# 8. Upcoming Learning Roadmap
 
 | Day | Topic | Status |
 |---|---|---|
-| 14 | Python Strings and String Operations | Next |
-| 15 | String Slicing and Methods | Planned |
-| 16 | List and Dictionary Comprehensions | Planned |
-| 17 | Nested Data Structures | Planned |
-| 18 | Exception Handling | Planned |
-| 19 | File Handling | Planned |
-| 20 | Modules and Imports | Planned |
-| 21 | Python Revision and Practical Assessment | Planned |
+| 17 | Python Packages and Project Organization | Upcoming |
+| 18 | File Handling | Upcoming |
+| 19 | Exception Handling | Upcoming |
+| 20 | Debugging and Error Understanding | Upcoming |
+| 21 | Revision and Practical Assessment | Upcoming |
+| 22 onward | Advanced Python Fundamentals | Planned |
 
-The exact syllabus may evolve according to learning progress.
+The roadmap may be adjusted according to learning progress.
 
 ---
 
-# 7. Upcoming Practical Assessment
+# 9. Learning Methodology
 
-After completing the next lessons, conduct a comprehensive Python examination.
+The learning process follows these rules:
 
-It should include:
-
-1. Computational logic.
-2. Variables and data types.
-3. Operators.
-4. Conditional statements.
-5. Loops.
-6. Functions.
-7. Parameters and scope.
-8. Lists.
-9. Dictionaries.
-10. Tuples.
-11. Sets.
-12. String operations.
-13. Debugging.
-14. Independent program development.
-
-Assessment should include:
-- Multiple-choice questions.
-- Output prediction.
-- Find-the-error questions.
-- Algorithm writing.
-- Pseudocode.
-- Independent coding challenges.
-- A final practical project.
-
-A new examination score should replace the provisional progress estimate when sufficient evidence is available.
+1. Understand logic before memorizing syntax.
+2. Start with simple explanations.
+3. Use pseudocode before complex programs.
+4. Attempt exercises independently.
+5. Receive hints before complete solutions.
+6. Understand code line by line.
+7. Record mistakes and corrections.
+8. Increase difficulty gradually.
+9. Connect lessons to NYXARA AI.
+10. Complete practical exercises alongside quizzes.
 
 ---
 
-# 8. Connection to the NYXARA AI Project
+# 10. Milestone Tracker
 
-Python fundamentals are the foundation for future NYXARA AI implementation.
+## Python Fundamentals — First 16 Days
 
-Upcoming technical learning will include:
+- [x] Day 01 — Computational Thinking
+- [x] Day 02 — Conditions and Logic
+- [x] Day 03 — Variables and Data Types
+- [x] Day 04 — Input and Output
+- [x] Day 05 — Operators
+- [x] Day 06 — Conditional Statements
+- [x] Day 07 — Loops
+- [x] Day 08 — Functions
+- [x] Day 09 — Parameters and Return
+- [x] Day 10 — Default Parameters
+- [x] Day 11 — Lists
+- [x] Day 12 — Dictionaries
+- [x] Day 13 — Tuples and Sets
+- [x] Day 14 — Strings
+- [x] Day 15 — Text Processing
+- [x] Day 16 — Modules and Imports (quiz completed)
 
-- NumPy.
-- Mathematical foundations.
-- Linear algebra.
-- Probability and statistics.
-- Data processing.
-- PyTorch.
-- Neural networks.
-- Tokenization.
-- Training pipelines.
-- Model evaluation.
+## Remaining Tasks
 
-The goal is to understand the implementation rather than blindly copy code.
-
-The long-term project roadmap remains:
-
-- NYXARA 0.1: Approximately 1 million parameters.
-- NYXARA 0.2 and 0.5: Intermediate development stages.
-- NYXARA 1.0: Approximately 1 billion parameters.
-
-These are project targets, not current achievements.
-
----
-
-# 9. Final Assessment
-
-**Current estimated score: 89/100**
-
-**Learning status:** Excellent progress.
-
-**Completed:** Python Fundamentals Days 1–13.
-
-**Next:** Day 14 — Python Strings and String Operations.
-
-The learner has demonstrated a growing ability to understand computational logic, predict program output, solve beginner programming problems and independently write simple Python programs.
-
-The next priority is to strengthen independent coding ability through increasingly complex exercises and practical assessments.
+- [ ] Complete Day 16 calculator module.
+- [ ] Review and verify practical code.
+- [ ] Start Day 17 — Python Packages.
+- [ ] Complete the first 21-day revision assessment.
 
 ---
 
-*Report maintained as part of the NYXARA AI learning programme.*
+# 11. Current Assessment
 
-*Scoring note: This report records available evidence as of Day 13. Scores for days without numerical quiz records are provisional estimates and must not be interpreted as independently verified examination marks.*
+**Learning days covered:** 16
+
+**Recorded overall score:** 90.6%
+
+**Points:** 135/149
+
+**Recent performance:** 19/19 across Days 14–16.
+
+**Strongest assessed section:** Days 11–16.
+
+**Next priority:** Independent practical programming.
+
+The learner has established a foundation in Python programming and is progressing toward the programming skills needed for independent NYXARA AI development.
+
+The next objective is to move beyond predicting outputs and become capable of designing, writing, testing and debugging complete programs.
+
+---
+
+# 12. Next Action
+
+1. Finish the Day 16 calculator module exercise.
+2. Review the code and correct any mistakes.
+3. Continue to Day 17.
+4. Learn Python packages and project organization.
+
+---
+
+**NYXARA AI**
+
+*Building Intelligence from the Foundations.*
+
